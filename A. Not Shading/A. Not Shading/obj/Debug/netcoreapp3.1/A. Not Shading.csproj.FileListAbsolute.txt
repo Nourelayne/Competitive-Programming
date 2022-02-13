@@ -1,0 +1,14 @@
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\bin\Debug\netcoreapp3.1\A. Not Shading.exe
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\bin\Debug\netcoreapp3.1\A. Not Shading.deps.json
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\bin\Debug\netcoreapp3.1\A. Not Shading.runtimeconfig.json
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\bin\Debug\netcoreapp3.1\A. Not Shading.runtimeconfig.dev.json
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\bin\Debug\netcoreapp3.1\A. Not Shading.dll
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\bin\Debug\netcoreapp3.1\A. Not Shading.pdb
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\obj\Debug\netcoreapp3.1\A. Not Shading.csproj.AssemblyReference.cache
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\obj\Debug\netcoreapp3.1\A. Not Shading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\obj\Debug\netcoreapp3.1\A. Not Shading.AssemblyInfoInputs.cache
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\obj\Debug\netcoreapp3.1\A. Not Shading.AssemblyInfo.cs
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\obj\Debug\netcoreapp3.1\A. Not Shading.csproj.CoreCompileInputs.cache
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\obj\Debug\netcoreapp3.1\A. Not Shading.dll
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\obj\Debug\netcoreapp3.1\A. Not Shading.pdb
+C:\Users\SalahEddineNourelayn\Desktop\Competitive-Programming\A. Not Shading\A. Not Shading\obj\Debug\netcoreapp3.1\A. Not Shading.genruntimeconfig.cache
