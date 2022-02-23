@@ -7,13 +7,12 @@ namespace A._Reverse
         static void RearrengeArray(int[] arr, int l, int r)
         {
             int c ;
-            for (int j = l; j <= r; j++)
+            int length = r - l + 1;
+            for (int j = l; j <= r - length/2; j++)
             {
-                Console.WriteLine(arr[j] + " " + arr[r - (j - l)]);
                 c = arr[j];
                 arr[j] = arr[r - (j - l)];
                 arr[r - (j - l)] = c;
-                Console.WriteLine(arr[j] + " " + arr[r - (j - l)]);
             }
         }
         static void Main(string[] args)
